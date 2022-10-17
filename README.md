@@ -1,1 +1,5 @@
 # Game_Development_Project
+# TEAM MEMBERS
+ 1. Ann Marie - EC DEPARTMENT - MARIAN ENGINEERING COLLEGE ( 2nd year)
+ 2. Varun Vinayan - CSE DEPARTMENT - LBS ENGINEERING COLLEGE ( 4th year)
+ 3. Alwin Mathew - CSE DEPARTMENT - JYOTHI ENGINEERING COLLEGE ( 2nd year)
